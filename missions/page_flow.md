@@ -1,4 +1,2 @@
 # Page flow
-
-填入完成的 Page Flow Figma 網址
-或是用其他工具畫圖寫成文件。
+This is the page flow: [Link](https://www.figma.com/file/4cqnaChZ6e8HlNOcEOaaer/RentalCar?type=design&node-id=6%3A2138&mode=design&t=MtAYUqBgNeBcpamn-1).
